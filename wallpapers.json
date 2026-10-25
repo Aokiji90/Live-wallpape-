@@ -35,5 +35,22 @@
     "secondaryColor": "#00FFCC",
     "isLocked": true,
     "requiredAds": 2
+  },
+  {
+    "id": "github_uploaded_01",
+    "title": "Roronoa Zoro",
+    "titleAr": "رورونوا زورو",
+    "description": "Custom wallpaper uploaded directly from my GitHub repository.",
+    "descriptionAr": "خلفية مخصصة مرفوعة مباشرة من مستودع جيتهوب الخاص بي.",
+    "category": "Static",
+    "categoryAr": "ثابت",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Aokiji90/Live-wallpape-/refs/heads/main/images.webp",
+    "isLocked": false,
+    "requiredAds": 0,
+    "engineType": "image",
+    "primaryColor": "#00F0FF",
+    "secondaryColor": "#A85CF6",
+    "accentColor": "#EC4899"
   }
+  
 ]
