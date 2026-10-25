@@ -1,15 +1,15 @@
 [
   {
     "id": "github_uploaded_01",
-    "title": "My Uploaded Wallpaper",
-    "titleAr": "خلفيتي المرفوعة",
+    "title": "Roronoa Zoro",
+    "titleAr": "",
     "description": "Custom wallpaper uploaded directly from my GitHub repository.",
     "descriptionAr": "خلفية مخصصة مرفوعة مباشرة من مستودع گيتهوب الخاص بي.",
     "category": "Cyber",
     "categoryAr": "سيبراني",
     "thumbnailUrl": "https://raw.githubusercontent.com/Aokiji90/Live-wallpape-/refs/heads/main/images.webp",
     "isLocked": false,
-    "requiredAds": 0,
+    "requiredAds": 1,
     "engineType": "image",
     "primaryColor": "#00F0FF",
     "secondaryColor": "#8B5CF6",
