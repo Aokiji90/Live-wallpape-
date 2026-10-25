@@ -30,6 +30,22 @@
     "primaryColor": "#00F0FF",
     "secondaryColor": "#8B5CF6",
     "accentColor": "#EC4899"
+  },
+  {
+  "id": "ready_3d_01",
+  "title": "Neon 3D Torus",
+  "titleAr": "مجسم نيون ثلاثي الأبعاد",
+  "description": "Ready-made interactive 3D WebGL wallpaper.",
+  "descriptionAr": "خلفية ثلاثية الأبعاد تفاعلية جاهزة ومصممة خصيصاً.",
+  "category": "Dynamic",
+  "categoryAr": "ديناميكي",
+  "isLocked": false,
+  "requiredAds": 0,
+  "engineType": "web",
+  "thumbnailUrl": "https://raw.githubusercontent.com/Aokiji90/Three/refs/heads/main/wallpaper.html",
+  "primaryColor": "#00F0FF",
+  "secondaryColor": "#8B5CF6",
+  "accentColor": "#EC4899"
   }
   
 ]
