@@ -63,7 +63,7 @@
     "thumbnailUrl": "https://raw.githubusercontent.com/Aokiji90/Live/main/life-and-death.720x1280.mp4",
     "isLocked": false,
     "requiredAds": 0,
-    "engineType": "video",
+    "engineType": "image",
     "primaryColor": "#00F0FF",
     "secondaryColor": "#3B82F6",
     "accentColor": "#A855F7"
