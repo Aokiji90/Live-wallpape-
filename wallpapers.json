@@ -17,14 +17,4 @@
     "secondaryColor": "#00FF00",
     "isLocked": false
   },
-  {
-    "id": "999",
-    "title": "تجربة",
-    "category": "Testing",
-    "engineType": "particles",
-    "primaryColor": "#FF0000",
-    "secondaryColor": "#00FF00",
-    "isLocked": false,
-    "requiredAds": 0
-  }
 ]
