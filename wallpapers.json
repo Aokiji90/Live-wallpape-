@@ -51,6 +51,22 @@
     "primaryColor": "#00F0FF",
     "secondaryColor": "#A85CF6",
     "accentColor": "#EC4899"
-  }
+    },
+    {
+    "id": "github_video_01",
+    "title": "Live Video Wallpaper",
+    "titleAr": "خلفية فيديو متحركة",
+    "description": "Live video wallpaper loaded directly from GitHub repository.",
+    "descriptionAr": "خلفية فيديو متحركة محملة مباشرة من مستودع جيت هوب.",
+    "category": "Dynamic",
+    "categoryAr": "ديناميكي",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Aokiji90/Live/main/life-and-death.720x1280.mp4",
+    "isLocked": false,
+    "requiredAds": 0,
+    "engineType": "video",
+    "primaryColor": "#00F0FF",
+    "secondaryColor": "#3B82F6",
+    "accentColor": "#A855F7"
+    }
   
 ]
