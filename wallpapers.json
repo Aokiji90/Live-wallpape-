@@ -31,13 +31,5 @@
     "secondaryColor": "#8B5CF6",
     "accentColor": "#EC4899"
   },
-  {
-  "id": "water_ripple_live",
-  "title": "Interactive Water Ripple",
-  "category": "Dynamic",
-  "engineType": "water",
-  "thumbnailUrl": "",
-  "requiredAds": 0
-  }
   
 ]
