@@ -158,5 +158,15 @@
       "interactiveStrength": 1.0,
       "palette": "dynamic"
     }
+  },
+  {
+  "id": "new_image_wallpaper",
+  "title": "New Image",
+  "description": "A new image wallpaper.",
+  "category": "Anime",
+  "engineType": "image",
+  "imageUrl": "https://raw.githubusercontent.com/Aokiji90/Live-wallpape-/refs/heads/main/images.webp",
+  "requiredAds": 0,
+  "interactive": false
   }
 ]
