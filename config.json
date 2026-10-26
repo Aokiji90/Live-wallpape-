@@ -1,7 +1,7 @@
 {
   "app_version_code": 2,
   "force_update": false,
-  "announcement": "live wallpaper",
+  "announcement": "",
   "ui_settings": {
     "show_banner_ads": true,
     "banner_title": "Advertisement",
