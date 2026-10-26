@@ -1,10 +1,11 @@
 {
 "app_version_code": 2,
 "force_update": false,
-"announcement": "TEST UPDATE: GitHub remote config is working!",
+"announcement": "Remote configuration active",
 "ui_settings": {
 "show_banner_ads": true,
 "banner_title": "Advertisement",
+"banner_ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
 "theme_mode": "dark"
 }
 }
