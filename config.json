@@ -1,11 +1,10 @@
-
 {
-  "app_version_code": 2,
-  "force_update": false,
-  "announcement": "TEST UPDATE: GitHub remote configuration is working!",
-  "ui_settings": {
-    "show_banner_ads": false,
-    "banner_title": "TEST BANNER - Ads Disabled",
-    "theme_mode": "system"
-  }
+"app_version_code": 2,
+"force_update": false,
+"announcement": "TEST UPDATE: GitHub remote config is working!",
+"ui_settings": {
+"show_banner_ads": true,
+"banner_title": "Advertisement",
+"theme_mode": "dark"
+}
 }
