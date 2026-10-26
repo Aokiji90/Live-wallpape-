@@ -1,25 +1,11 @@
+
 {
   "app_version_code": 1,
   "force_update": false,
-  "announcement": "",
+  "announcement": "TEST UPDATE: GitHub remote configuration is working!",
   "ui_settings": {
-    "show_banner_ads": true,
-    "banner_title": "مرحباً بك في عالم الخلفيات الحية",
-    "theme_mode": "dark"
-  },
-  "wallpapers": [
-    {
-      "id": "w1",
-      "title": "Nebula Space",
-      "category": "Space",
-      "engineType": "nebula",
-      "thumbnailUrl": "https://example.com/thumb1.jpg",
-      "primaryColor": "#FF0055",
-      "secondaryColor": "#00F0FF",
-      "requiredAds": 0,
-      "particleCount": 80,
-      "speed": 1.2
-    }
-  ]
+    "show_banner_ads": false,
+    "banner_title": "TEST BANNER - Ads Disabled",
+    "theme_mode": "light"
+  }
 }
-
