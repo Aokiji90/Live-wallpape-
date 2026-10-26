@@ -3,9 +3,9 @@
   "force_update": false,
   "announcement": "Remote configuration active",
   "ui_settings": {
-    "show_banner_ads": false,
+    "show_banner_ads": true,
     "banner_title": "Advertisement",
-    "banner_ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
+    "banner_ad_unit_id": "ca-app-pub-8484694874301344~9581068354",
     "theme_mode": "dark"
   }
 }
