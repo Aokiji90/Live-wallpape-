@@ -168,5 +168,35 @@
   "imageUrl": "https://raw.githubusercontent.com/Aokiji90/Live-wallpape-/refs/heads/main/images.webp",
   "requiredAds": 0,
   "interactive": false
+  },
+  {
+  "id": "life_and_death_video",
+  "nameKey": "life_and_death_video",
+  "nameEn": "Life and Death",
+  "nameAr": "الحياة والموت",
+  "nameFr": "Vie et mort",
+  "category": "cinematic",
+  "descriptionKey": "life_and_death_desc",
+  "descriptionEn": "Cinematic video wallpaper",
+  "descriptionAr": "خلفية سينمائية متحركة",
+  "descriptionFr": "Fond d'écran vidéo cinématographique",
+  "tags": ["video", "cinematic"],
+  "thumbnailGradient": ["#101010", "#4B5563"],
+  "primaryColor": "#101010",
+  "secondaryColor": "#4B5563",
+  "accentColor": "#FFFFFF",
+  "fps": 30,
+  "interactive": false,
+  "engineType": "video",
+  "requiredAds": 0,
+  "thumbnailUrl": "",
+  "videoUrl": "https://github.com/Aokiji90/Live/raw/refs/heads/main/life-and-death.720x1280%20(1).mp4",
+  "config": {
+    "speed": 1.0,
+    "density": 30,
+    "glow": 0.85,
+    "interactiveStrength": 0.0,
+    "palette": "cinematic"
   }
+
 ]
