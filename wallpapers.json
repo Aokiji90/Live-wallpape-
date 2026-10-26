@@ -1,72 +1,82 @@
 [
-  {
-    "id": "1",
-    "title": "Neon Particles",
-    "titleAr": "جسيمات نيون متفاعلة",
-    "description": "Interactive glowing particles with kinetic light threads.",
-    "descriptionAr": "جسيمات متوهجة تفاعلية مع خيوط ضوئية متحركة.",
-    "category": "Neon",
-    "engineType": "particles",
-    "primaryColor": "#00F0FF",
-    "secondaryColor": "#3B82F6",
-    "isLocked": false
-  },
-  {
-    "id": "2",
-    "title": "Cosmic Nebula",
-    "titleAr": "سديم كوني ساحر",
-    "description": "Dynamic swirling stellar clouds and deep atmospheric movement.",
-    "descriptionAr": "غيوم نجمية متحركة وغبار كوني بعمق وألوان مذهلة.",
-    "category": "Space",
-    "engineType": "nebula",
-    "primaryColor": "#8A2BE2",
-    "secondaryColor": "#00FFFF",
-    "isLocked": false
-  },
-  {
-    "id": "3",
-    "title": "Cyber Waves",
-    "titleAr": "أمواج سيبرانية",
-    "description": "Deep abyssal bioluminescent waves intersecting with cyber lines.",
-    "descriptionAr": "أمواج مائية متوهجة تتقاطع مع خطوط سيبرانية انسيابية.",
-    "category": "Cyber",
-    "engineType": "waves",
-    "primaryColor": "#0055FF",
-    "secondaryColor": "#00FFCC",
-    "isLocked": true,
-    "requiredAds": 2
-  },
-  {
-    "id": "github_uploaded_01",
-    "title": "Roronoa Zoro",
-    "titleAr": "رورونوا زورو",
-    "description": "Custom wallpaper uploaded directly from my GitHub repository.",
-    "descriptionAr": "خلفية مخصصة مرفوعة مباشرة من مستودع جيتهوب الخاص بي.",
-    "category": "Static",
-    "categoryAr": "ثابت",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Aokiji90/Live-wallpape-/refs/heads/main/images.webp",
-    "isLocked": false,
-    "requiredAds": 0,
-    "engineType": "image",
-    "primaryColor": "#00F0FF",
-    "secondaryColor": "#A85CF6",
-    "accentColor": "#EC4899"
-    },
-    {
-    "id": "github_video_01",
-    "title": "Live Video Wallpaper",
-    "titleAr": "خلفية فيديو متحركة",
-    "description": "Live video wallpaper loaded directly from GitHub repository.",
-    "descriptionAr": "خلفية فيديو متحركة محملة مباشرة من مستودع جيت هوب.",
-    "category": "Dynamic",
-    "categoryAr": "ديناميكي",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Aokiji90/Live/refs/heads/main/pexels-steve-29652321.jpg",
-    "isLocked": false,
-    "requiredAds": 0,
-    "engineType": "image",
-    "primaryColor": "#00F0FF",
-    "secondaryColor": "#3B82F6",
-    "accentColor": "#A855F7"
-    }
-  
+{
+"id": "dna_helix",
+"title": "DNA Helix",
+"titleAr": "الحمض النووي",
+"description": "Explore a glowing DNA double helix.",
+"descriptionAr": "استكشف حلزون الحمض النووي المضيء.",
+"category": "science",
+"engineType": "dna_helix",
+"primaryColor": "#00E5FF",
+"secondaryColor": "#071A35",
+"accentColor": "#FFFFFF",
+"requiredAds": 0,
+"config": {
+"speed": 1.0,
+"density": 30,
+"glow": 0.85,
+"interactiveStrength": 1.0,
+"palette": "dynamic"
+}
+},
+{
+"id": "quantum_aurora",
+"title": "Quantum Aurora",
+"titleAr": "الشفق الكمي",
+"description": "A colorful quantum aurora.",
+"descriptionAr": "شفق كمي بألوان متوهجة.",
+"category": "science",
+"engineType": "quantum_aurora",
+"primaryColor": "#00FFAA",
+"secondaryColor": "#160B35",
+"accentColor": "#FF40D0",
+"requiredAds": 0,
+"config": {
+"speed": 1.2,
+"density": 40,
+"glow": 1.0,
+"interactiveStrength": 1.0,
+"palette": "dynamic"
+}
+},
+{
+"id": "fluid_vortex",
+"title": "Fluid Vortex",
+"titleAr": "الدوامة السائلة",
+"description": "A flowing interactive vortex.",
+"descriptionAr": "دوامة متحركة وتفاعلية.",
+"category": "science",
+"engineType": "fluid_vortex",
+"primaryColor": "#FF6A00",
+"secondaryColor": "#12051F",
+"accentColor": "#FFE066",
+"requiredAds": 0,
+"config": {
+"speed": 0.7,
+"density": 50,
+"glow": 0.9,
+"interactiveStrength": 1.0,
+"palette": "dynamic"
+}
+},
+{
+"id": "cyber_circuit",
+"title": "Cyber Circuit",
+"titleAr": "الدارات السيبرانية",
+"description": "A futuristic neon circuit.",
+"descriptionAr": "دارات مستقبلية بأضواء نيون.",
+"category": "technology",
+"engineType": "cyber_circuit",
+"primaryColor": "#00FF88",
+"secondaryColor": "#050B20",
+"accentColor": "#00BFFF",
+"requiredAds": 0,
+"config": {
+"speed": 1.0,
+"density": 35,
+"glow": 0.8,
+"interactiveStrength": 1.0,
+"palette": "dynamic"
+}
+}
 ]
