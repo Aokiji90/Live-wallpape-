@@ -8,7 +8,7 @@
     "primaryColor": "#00E5FF",
     "secondaryColor": "#071A35",
     "accentColor": "#FFFFFF",
-    "requiredAds": 0,
+    "requiredAds": 1,
     "interactive": true,
     "fps": 60,
     "config": {
