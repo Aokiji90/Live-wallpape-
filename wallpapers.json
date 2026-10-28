@@ -1,211 +1,40 @@
 
 [
-  {
-    "id": "dna_helix",
-    "title": "DNA Helix",
-    "description": "An interactive glowing DNA double helix.",
-    "category": "Science",
-    "engineType": "dna_helix",
-    "primaryColor": "#00E5FF",
-    "secondaryColor": "#071A35",
-    "accentColor": "#FFFFFF",
-    "requiredAds": 1,
-    "interactive": true,
-    "fps": 60,
-    "config": {
-      "speed": 1.0,
-      "density": 30,
-      "glow": 0.85,
-      "interactiveStrength": 1.0,
-      "palette": "dynamic"
-    }
-  },
-  {
-    "id": "quantum_aurora",
-    "title": "Quantum Aurora",
-    "description": "A colorful aurora inspired by quantum energy.",
-    "category": "Science",
-    "engineType": "quantum_aurora",
-    "primaryColor": "#00FFAA",
-    "secondaryColor": "#160B35",
-    "accentColor": "#FF40D0",
-    "requiredAds": 0,
-    "interactive": true,
-    "fps": 60,
-    "config": {
-      "speed": 1.2,
-      "density": 40,
-      "glow": 1.0,
-      "interactiveStrength": 1.0,
-      "palette": "dynamic"
-    }
-  },
-  {
-    "id": "fluid_vortex",
-    "title": "Fluid Vortex",
-    "description": "A flowing vortex with vibrant colors.",
-    "category": "Abstract",
-    "engineType": "fluid_vortex",
-    "primaryColor": "#FF6A00",
-    "secondaryColor": "#12051F",
-    "accentColor": "#FFE066",
-    "requiredAds": 0,
-    "interactive": true,
-    "fps": 60,
-    "config": {
-      "speed": 0.7,
-      "density": 50,
-      "glow": 0.9,
-      "interactiveStrength": 1.0,
-      "palette": "dynamic"
-    }
-  },
-  {
-    "id": "cyber_circuit",
-    "title": "Cyber Circuit",
-    "description": "A futuristic circuit powered by neon light.",
-    "category": "Technology",
-    "engineType": "cyber_circuit",
-    "primaryColor": "#00FF88",
-    "secondaryColor": "#050B20",
-    "accentColor": "#00BFFF",
-    "requiredAds": 0,
-    "interactive": true,
-    "fps": 60,
-    "config": {
-      "speed": 1.0,
-      "density": 35,
-      "glow": 0.8,
-      "interactiveStrength": 1.0,
-      "palette": "dynamic"
-    }
-  },
-  {
-    "id": "alphafold_ribbon",
-    "title": "Protein Ribbon",
-    "description": "A molecular ribbon inspired by protein structures.",
-    "category": "Science",
-    "engineType": "alphafold_ribbon",
-    "primaryColor": "#A855F7",
-    "secondaryColor": "#10102B",
-    "accentColor": "#5EEAD4",
-    "requiredAds": 0,
-    "interactive": true,
-    "fps": 60,
-    "config": {
-      "speed": 0.8,
-      "density": 30,
-      "glow": 0.85,
-      "interactiveStrength": 1.0,
-      "palette": "dynamic"
-    }
-  },
-  {
-    "id": "synaptic_net",
-    "title": "Synaptic Network",
-    "description": "A network of glowing neural connections.",
-    "category": "Science",
-    "engineType": "synaptic_net",
-    "primaryColor": "#00D4FF",
-    "secondaryColor": "#08152E",
-    "accentColor": "#FF4FD8",
-    "requiredAds": 0,
-    "interactive": true,
-    "fps": 60,
-    "config": {
-      "speed": 1.1,
-      "density": 45,
-      "glow": 0.9,
-      "interactiveStrength": 1.0,
-      "palette": "dynamic"
-    }
-  },
-  {
-    "id": "mandala_prism",
-    "title": "Prism Mandala",
-    "description": "A geometric mandala with luminous patterns.",
-    "category": "Abstract",
-    "engineType": "mandala_prism",
-    "primaryColor": "#FFD166",
-    "secondaryColor": "#241044",
-    "accentColor": "#FF70A6",
-    "requiredAds": 0,
-    "interactive": true,
-    "fps": 60,
-    "config": {
-      "speed": 0.6,
-      "density": 30,
-      "glow": 0.95,
-      "interactiveStrength": 1.0,
-      "palette": "dynamic"
-    }
-  },
-  {
-    "id": "black_hole",
-    "title": "Black Hole",
-    "description": "A cosmic scene inspired by gravitational forces.",
-    "category": "Space",
-    "engineType": "black_hole",
-    "primaryColor": "#7C4DFF",
-    "secondaryColor": "#030712",
-    "accentColor": "#00E5FF",
-    "requiredAds": 0,
-    "interactive": true,
-    "fps": 60,
-    "config": {
-      "speed": 0.9,
-      "density": 40,
-      "glow": 0.9,
-      "interactiveStrength": 1.0,
-      "palette": "dynamic"
-    }
-  },
-  {
-    "id": "new_image_wallpaper",
-    "title": "New Image",
-    "description": "A new image wallpaper.",
-    "category": "Anime",
-    "engineType": "image",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Aokiji90/Live-wallpape-/refs/heads/main/images.webp",
-    "imageUrl": "https://raw.githubusercontent.com/Aokiji90/Live-wallpape-/refs/heads/main/images.webp",
-    "primaryColor": "#101010",
-    "secondaryColor": "#4B5563",
-    "accentColor": "#FFFFFF",
-    "requiredAds": 100,
-    "interactive": false,
-    "fps": 30,
-    "tags": ["image", "anime"],
-    "thumbnailGradient": ["#101010", "#4B5563"],
-    "config": {
-      "speed": 1.0,
-      "density": 30,
-      "glow": 0.85,
-      "interactiveStrength": 0.0,
-      "palette": "static"
-    }
-  },
-  {
-    "id": "life_and_death_video",
-    "title": "Life and Death",
-    "description": "Cinematic video wallpaper.",
-    "category": "Cinematic",
-    "engineType": "video",
-    "thumbnailUrl": "",
-    "videoUrl": "https://github.com/Aokiji90/Live/raw/refs/heads/main/life-and-death.720x1280%20(1).mp4",
-    "primaryColor": "#101010",
-    "secondaryColor": "#4B5563",
-    "accentColor": "#FFFFFF",
-    "requiredAds": 0,
-    "interactive": false,
-    "fps": 30,
-    "tags": ["video", "cinematic"],
-    "thumbnailGradient": ["#101010", "#4B5563"],
-    "config": {
-      "speed": 1.0,
-      "density": 30,
-      "glow": 0.85,
-      "interactiveStrength": 0.0,
-      "palette": "cinematic"
-    }
+{
+  "id": "neon_plasma_storm",
+  "nameKey": "neon_plasma_storm",
+  "nameEn": "Neon Plasma Storm",
+  "nameAr": "عاصفة البلازما النيونية",
+  "nameFr": "Tempête de plasma néon",
+  "category": "science",
+  "descriptionKey": "neon_plasma_storm",
+  "descriptionEn": "A glowing aurora of vibrant plasma waves.",
+  "descriptionAr": "موجات بلازما مضيئة بألوان النيون.",
+  "descriptionFr": "Des vagues de plasma lumineuses.",
+  "tags": ["Neon", "Plasma", "Interactive", "60 FPS"],
+  "thumbnailGradient": [
+    "#06B6D4",
+    "#8B5CF6",
+    "#EC4899"
+  ],
+  "primaryColor": "#06B6D4",
+  "secondaryColor": "#8B5CF6",
+  "accentColor": "#EC4899",
+  "fps": 60,
+  "interactive": true,
+  "engineType": "quantum_aurora",
+  "accessType": "free",
+  "requiredAds": 0,
+  "videoUrl": null,
+  "imageUrl": null,
+  "thumbnailUrl": null,
+  "isNew": true,
+  "config": {
+    "speed": 1.2,
+    "density": 40,
+    "glow": 0.9,
+    "interactiveStrength": 1.0,
+    "palette": "dynamic"
   }
+}
 ]
