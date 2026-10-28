@@ -1,5 +1,42 @@
 
 [
+  {
+  "id": "neon_torus_3d",
+  "nameKey": "neon_torus_3d",
+  "nameEn": "Neon Torus 3D",
+  "nameAr": "حلقة النيون ثلاثية الأبعاد",
+  "nameFr": "Tore 3D Néon",
+  "category": "3d",
+  "descriptionKey": "neon_torus_3d",
+  "descriptionEn": "A glowing futuristic 3D torus.",
+  "descriptionAr": "حلقة ثلاثية الأبعاد بتوهج مستقبلي.",
+  "descriptionFr": "Un tore 3D futuriste lumineux.",
+  "tags": ["3D", "Neon", "Interactive"],
+  "thumbnailGradient": [
+    "#06B6D4",
+    "#8B5CF6",
+    "#EC4899"
+  ],
+  "primaryColor": "#06B6D4",
+  "secondaryColor": "#8B5CF6",
+  "accentColor": "#EC4899",
+  "fps": 120,
+  "interactive": true,
+  "engineType": "3d",
+  "accessType": "free",
+  "requiredAds": 0,
+  "videoUrl": null,
+  "imageUrl": null,
+  "thumbnailUrl": null,
+  "isNew": true,
+  "config": {
+    "speed": 1.0,
+    "density": 35,
+    "glow": 0.9,
+    "interactiveStrength": 1.0,
+    "palette": "dynamic"
+  }
+  },
 {
   "id": "neon_plasma_storm",
   "nameKey": "neon_plasma_storm",
