@@ -1,11 +1,5 @@
 {
-  "app_version_code": 2,
-  "force_update": false,
-  "announcement": "",
-  "ui_settings": {
-    "show_banner_ads": true,
-    "banner_title": "Advertisement",
-    "banner_ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
-    "theme_mode": "dark"
-  }
+"announcement": "TEST CONFIG 987 - تم تحميل الإعدادات من GitHub بنجاح!",
+"show_banner_ads": false,
+"required_ads_override": 0
 }
