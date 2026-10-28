@@ -171,7 +171,7 @@
     "primaryColor": "#101010",
     "secondaryColor": "#4B5563",
     "accentColor": "#FFFFFF",
-    "requiredAds": 0,
+    "requiredAds": 100,
     "interactive": false,
     "fps": 30,
     "tags": ["image", "anime"],
