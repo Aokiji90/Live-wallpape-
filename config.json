@@ -1,5 +1,5 @@
 {
 "announcement": "TEST CONFIG 987 - تم تحميل الإعدادات من GitHub بنجاح!",
-"show_banner_ads": false,
+"show_banner_ads": true,
 "required_ads_override": 0
 }
