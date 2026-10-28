@@ -1,5 +1,12 @@
 {
-"announcement": "TEST CONFIG 987 - تم تحميل الإعدادات من GitHub بنجاح!",
-"show_banner_ads": true,
-"required_ads_override": 0
+  "schema_version": 1,
+  "ad_settings": {
+    "rewarded_ad_unit_id": "ca-app-pub-8484694874301344/8275103425",
+    "banner_ad_unit_id": "ca-app-pub-3302599292996614/6300978111"
+  },
+  "banner": {
+    "enabled": true,
+    "title": "Advertisement",
+    "ad_unit_id": "ca-app-pub-3302599292996614/6300978111"
+  }
 }
