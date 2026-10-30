@@ -14,7 +14,7 @@
   "force_update": true,
   "force_update_min_version": 1,
   "update_url": "https://play.google.com/store/apps/details?id=com.smartqr.livewallpaper",
-  "show_announcement": true,
+  "show_announcement": false,
   "announcement_title": "اختبار ",
   "announcement": "رسالة تجريبيه",
   "announcement_type": "update",
