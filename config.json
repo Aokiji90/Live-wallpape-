@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "app_title": "NovaAura 3D Live Wallpapers",
-  "ads_enabled": true,
+  "ads_enabled": false,
   "banner_enabled": true,
   "rewarded_ad_unit_id": "ca-app-pub-8484694874301344/8275103د425",
   "banner_ad_unit_id": "ca-app-pub-8484694874301344/8275103425",
