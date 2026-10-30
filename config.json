@@ -14,9 +14,9 @@
   "force_update": false,
   "force_update_min_version": 1,
   "update_url": "https://play.google.com/store/apps/details?id=com.smartqr.livewallpaper",
-  "show_announcement": true,
+  "show_announcement": false,
   "announcement_title": "ميزة جديدة!",
-  "announcement": "تمت إضافة محركات خلفيات 3D جديدة تفاعلية عالية الدقة.",
+  "announcement": "تمت إضافة محركات خلفيات 3D جديدة تفاعلية",
   "announcement_type": "info",
   "announcement_action_url": "",
   "store_products": {
