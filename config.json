@@ -27,13 +27,13 @@
     "xiaomi_monthly_id": "novaaura_vip_monthly",
     "xiaomi_lifetime_id": "novaaura_vip_lifetime"
   },
-  "feed_view_mode": "grid",
+  "feed_view_mode": "compact",
   "ui_settings": {
     "show_banner_ads": true,
     "banner_title": "Sponsored",
     "banner_ad_unit_id": "ca-app-pub-8484694874301344/8275103425",
     "theme_mode": "dark",
-    "enable_sensor_tilt": false,
+    "enable_sensor_tilt": true,
     "default_fps": 120
   },
   "app_version_code": 1,
