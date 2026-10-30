@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": "wallpaper_1793362082607",
+    "nameAr": "",
+    "nameEn": "4k",
+    "engineType": "3d",
+    "accessType": "rewarded",
+    "requiredAds": 2,
+    "primaryColor": "#443447",
+    "secondaryColor": "#69b3a1",
+    "fps": 60,
+    "interactive": true
+  }
+]
