@@ -8,7 +8,7 @@
   "update_url": "https://play.google.com/store/apps/details?id=com.smartqr.livewallpaper",
   "maintenance_mode": true,
   "maintenance_message": "نعمل على تحديث خوادم المحرك ثلاثي الأبعاد، سنعود قريباً!",
-  "show_announcement": false,
+  "show_announcement": true,
   "announcement_title": "ميزة جديدة!",
   "announcement": "تمت إضافة محركات خلفيات 3D جديدة تفاعلية عالية الدقة.",
   "announcement_type": "info",
