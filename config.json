@@ -1,12 +1,62 @@
 {
   "schema_version": 1,
+  "app_title": "NovaAura 3D Live Wallpapers",
+  "app_version_code": 1,
+  "version_code": 1,
+
+  "force_update": false,
+  "force_update_min_version": 1,
+  "update_url": "https://play.google.com/store/apps/details?id=com.smartqr.livewallpaper",
+
+  "maintenance_mode": false,
+  "maintenance_message": "نعمل على تحديث خوادم المحرك ثلاثي الأبعاد، سنعود قريباً!",
+
+  "show_announcement": false,
+  "announcement_title": "ميزة جديدة!",
+  "announcement": "تمت إضافة محركات خلفيات 3D جديدة تفاعلية عالية الدقة.",
+  "announcement_type": "info",
+  "announcement_action_url": "",
+
+  "ads_enabled": true,
+  "banner_enabled": true,
+  "rewarded_ad_unit_id": "ca-app-pub-8484694874301344/8275103425",
+  "banner_ad_unit_id": "ca-app-pub-8484694874301344/8275103425",
+  "required_ads_override": 2,
+
+  "free_vip_all": false,
+  "vip_direct_mode": "auto",
+  "external_vip_url": "",
+
+  "store_products": {
+    "google_play_monthly_id": "novaaura_vip_monthly",
+    "google_play_lifetime_id": "novaaura_vip_lifetime",
+    "huawei_monthly_id": "novaaura_vip_monthly",
+    "huawei_lifetime_id": "novaaura_vip_lifetime",
+    "xiaomi_monthly_id": "novaaura_vip_monthly",
+    "xiaomi_lifetime_id": "novaaura_vip_lifetime"
+  },
+
   "ad_settings": {
     "rewarded_ad_unit_id": "ca-app-pub-8484694874301344/8275103425",
-    "banner_ad_unit_id": "ca-app-pub-3302599292996614/6300978111"
+    "banner_ad_unit_id": "ca-app-pub-8484694874301344/8275103425"
   },
+
   "banner": {
     "enabled": true,
     "title": "Advertisement",
-    "ad_unit_id": "ca-app-pub-3302599292996614/6300978111"
-  }
+    "ad_unit_id": "ca-app-pub-8484694874301344/8275103425"
+  },
+
+  "ui_settings": {
+    "show_banner_ads": true,
+    "banner_title": "Sponsored",
+    "banner_ad_unit_id": "ca-app-pub-8484694874301344/8275103425",
+    "theme_mode": "dark",
+    "enable_sensor_tilt": true,
+    "default_fps": 60
+  },
+
+  "feed_view_mode": "card",
+  "default_category": "all",
+  "theme_mode": "dark"
 }
