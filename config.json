@@ -12,7 +12,7 @@
   "announcement_title": "إشعار هام: تحديث وإضافات جديدة",
   "announcement_type": "info",
   "announcement_action_url": "",
-  "show_announcement": true,
+  "show_announcement": false,
   "store_products": {
     "google_play_monthly_id": "novaaura_vip_monthly",
     "google_play_lifetime_id": "novaaura_vip_lifetime",
