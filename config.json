@@ -33,7 +33,7 @@
   "huawei_rewarded_ad_unit_id": "testx9dtjwj8hp",
   "huawei_banner_ad_unit_id": "testw6vs38au38",
   "huawei_interstitial_ad_unit_id": "testb4znb2vhcq",
-  "ad_mediation_strategy": "smart_ecpm",
+  "ad_mediation_strategy": "huawei_first",
   "admob_ratio_percent": 50,
   "huawei_ratio_percent": 50,
   "admob_estimated_ecpm": 2.5,
