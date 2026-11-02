@@ -24,7 +24,7 @@
   "free_vip_all": false,
   "external_vip_url": "",
   "vip_direct_mode": "auto",
-  "ads_enabled": false,
+  "ads_enabled": true,
   "rewarded_ad_unit_id": "ca-app-pub-8484694874301344/8275103425",
   "banner_ad_unit_id": "ca-app-pub-8484694874301344/8275103425",
   "banner_enabled": true,
